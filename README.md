@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NiveenAntony
-- 👀 I’m interested in Development and deploy
-- 🌱 I’m currently learning Basci languages for Full stack
+- 👀 I’m Full stack C# and DOT-net developer
+- 🌱 I’m currently working as software trainee in ICL SERVICE SOLUTION
 - 💞️ I’m looking to Complete Good software projects and get a Job
-- 📫 How to reach me nivinpsg@gmail.com 
+- 📫 How to reach me niveenantony@gmail.com 
 
 <!---
 NiveenAntony/NiveenAntony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
